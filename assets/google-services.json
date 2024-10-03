@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848086390551",
+    "project_id": "e-coo-6120d",
+    "storage_bucket": "e-coo-6120d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848086390551:android:5f122973c77d42ff318952",
+        "android_client_info": {
+          "package_name": "com.example.eco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgdPnIWnCXJzCWzWauxC_dOgDYIoKDSiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
